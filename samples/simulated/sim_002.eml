@@ -1,0 +1,25 @@
+From: "PayPal Support" <support@paypa1-secure-center.com>
+To: victim@example.com
+Reply-To: support@paypa1-secure-center.com
+Return-Path: <bounce@spamserver.com>
+Subject: Your PayPal account has been limited
+Date: Sat, 14 Mar 2026 11:00:00 +0000
+Message-ID: <20260314110000.sim002@paypa1-secure-center.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Received-SPF: None (no SPF record found)
+
+Received: from spamserver.com ([91.108.56.200])
+        by mx.example.com with ESMTP
+        for <victim@example.com>; Sat, 14 Mar 2026 11:00:00 +0000
+
+<html>
+<body>
+<h2>PayPal Account Limited</h2>
+<p>We noticed suspicious activity on your PayPal account.</p>
+<p>Your ability to send and withdraw funds has been restricted.</p>
+<p>Failure to verify within 48 hours will result in permanent suspension.</p>
+<a href="http://paypa1-secure-center.com/restore?uid=victim_abc">Restore My Account</a>
+<p>PayPal Security Team</p>
+</body>
+</html>

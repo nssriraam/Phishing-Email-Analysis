@@ -1,0 +1,16 @@
+From: "Hitman Support" <noreply@hitmantest.club>
+To: victim@example.com
+Reply-To: support@hitmantest.club
+Return-Path: <bounce@hitmantest.club>
+Subject: Complete your account setup — action required
+Date: Sat, 14 Mar 2026 17:05:00 +0000
+Message-ID: <20260314170500.phish003@hitmantest.club>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Please complete your account setup to continue.</p>
+<a href="https://hitmantest.club/as.php">Complete Setup</a>
+</body>
+</html>

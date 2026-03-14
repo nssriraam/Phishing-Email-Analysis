@@ -1,0 +1,16 @@
+From: "Hitman Support" <noreply@hitmantest.club>
+To: victim@example.com
+Reply-To: support@hitmantest.club
+Return-Path: <bounce@hitmantest.club>
+Subject: Your Hitman account requires verification
+Date: Sat, 14 Mar 2026 17:00:00 +0000
+Message-ID: <20260314170000.phish002@hitmantest.club>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Your Hitman game account needs immediate verification.</p>
+<a href="https://hitmantest.club/">Verify Account</a>
+</body>
+</html>

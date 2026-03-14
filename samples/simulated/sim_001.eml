@@ -1,0 +1,25 @@
+From: "Microsoft Security" <security-alert@micros0ft-verify.com>
+To: victim@example.com
+Reply-To: noreply@micros0ft-verify.com
+Return-Path: <bounce@malicious-relay.ru>
+Subject: [ACTION REQUIRED] Unusual sign-in activity detected
+Date: Sat, 14 Mar 2026 10:00:00 +0000
+Message-ID: <20260314100000.sim001@micros0ft-verify.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Received-SPF: Fail (micros0ft-verify.com is not authorized)
+
+Received: from malicious-relay.ru ([185.220.101.45])
+        by mx.example.com with ESMTP
+        for <victim@example.com>; Sat, 14 Mar 2026 10:00:00 +0000
+
+<html>
+<body>
+<h2>Microsoft Account Security Alert</h2>
+<p>We detected unusual sign-in activity on your account.</p>
+<p>Location: Moscow, Russia</p>
+<p>Your account will be suspended in 24 hours if you do not verify.</p>
+<a href="http://185.220.101.45/microsoft/login?track=victim123">Verify My Account Now</a>
+<p>Microsoft Security Team</p>
+</body>
+</html>
